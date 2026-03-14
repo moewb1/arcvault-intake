@@ -65,6 +65,10 @@ LLM_MODEL=llama-3.3-70b-versatile
 # LLM_BASE_URL=https://api.groq.com/openai/v1
 ```
 
+## API key access
+
+For API key access or project credentials, contact: `moetassem.wehbe.01@gmail.com`.
+
 ## Test
 
 ```bash
